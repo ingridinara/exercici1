@@ -19,4 +19,5 @@ which should updated in real time.
 7. Helper function
 8. An external repo was created as image source to this exercise
 
-[https://dyf2l.csb.app/blog]
+### You can access the Web Preview bellow:
+[https://dyf2l.csb.app/]
